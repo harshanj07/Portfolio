@@ -3,9 +3,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://portfolio-nine-wine-90.vercel.app/" target="_blank">Harshan.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
