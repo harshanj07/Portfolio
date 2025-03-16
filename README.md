@@ -4,14 +4,8 @@
   <a href="https://portfolio-nine-wine-90.vercel.app/" target="_blank">Harshan.tech</a>
 </h2>
 
-<br/>
-
 <center>
-
-
 ## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
