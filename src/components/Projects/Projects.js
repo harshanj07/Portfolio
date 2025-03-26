@@ -25,14 +25,35 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="MERN Stack Project: Build and Deployed a Real Time Chat App | JWT, Socket.io."
+              title="Echo-Chat"
+              description="MERN Stack Project: Build and Deployed a Real Time Chat App | JWT, Socket.io. Implemented a secure and scalable backend with Node.js and Express"
               ghLink="https://github.com/harshanj07/chatApplication"
               demoLink="https://chatapplication-xu8n.onrender.com/"
             />
           </Col>
-
           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="AI-Finance-App"
+              description="Full Stack AI Finance Platform with Next JS, Supabase, Tailwind, Prisma,Inngest, ArcJet. a scalable, responsive, and user-friendly application and provide detailed insights with help of AI for better financial management."
+              ghLink="https://github.com/harshanj07/AI-Finance-app"
+              demoLink="https://ai-finance-app-psi.vercel.app/"              
+            />
+          </Col> 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Expense-Tracker"
+              description="A web-based application designed to assist users in tracking and managing their daily expenses. Built with the MERN stack to create a scalable, responsive, and userfriendly application."
+              ghLink="https://github.com/harshanj07/ExpenseTracker"
+              demoLink="https://expensetracker-1-1eie.onrender.com/"              
+            />
+          </Col>
+
+
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -41,7 +62,7 @@ function Projects() {
               ghLink="https://github.com/harshanj07/Predictive-maintanece"
               demoLink="https://predictive-maintanece-nymfcdag4xsp5tcdbjjynz.streamlit.app/"
             />
-          </Col>
+          </Col> */}
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
