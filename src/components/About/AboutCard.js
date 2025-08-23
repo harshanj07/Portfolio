@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Harshan J </span>
             from <span className="purple"> TamilNadu, India.</span>
             <br />
-            I am currently seeking 6 months intern from May 2025 to December 2025.
+            Software Testing Intern at ICU Medical LLP, focused on test case execution, bug reporting, and ensuring product quality
             <br />
-            I Currently pursuing 3rd year of 5 year Integrated M.Sc. Software Systems at the 
+            I Currently pursuing 4th year of 5 year Integrated M.Sc. Software Systems at the 
             Department of AMCS at PSG College of Technology.
             <br />
             <br />
