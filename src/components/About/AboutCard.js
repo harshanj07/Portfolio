@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Harshan J </span>
             from <span className="purple"> TamilNadu, India.</span>
             <br />
-            Software Testing Intern at ICU Medical LLP, focused on test case execution, bug reporting, and ensuring product quality
+            Full-Stack Developer and 5th-year Integrated M.Sc. Software Systems student at PSG College of Technology. Passionate about building scalable web applications, AI-powered solutions, and seamless user experiences with modern software technologies.
             <br />
-            I Currently pursuing 4th year of 5 year Integrated M.Sc. Software Systems at the 
-            Department of AMCS at PSG College of Technology.
+            Gained industry experience through internships at Nithra Apps (Full-Stack Development) and ICU Medical LLP (Software Testing), working on web applications, automation testing, and quality assurance. Always exploring new technologies and building impactful solutions.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
